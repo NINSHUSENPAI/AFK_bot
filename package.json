@@ -1,0 +1,12 @@
+{
+  "name": "universal-bot",
+  "version": "1.0.0",
+  "description": "AFK bot to keep Aternos server online",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  }
+}
